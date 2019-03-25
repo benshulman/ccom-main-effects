@@ -13,4 +13,4 @@ Main-effect analyses for the Couples' Communication study. These analyses examin
 
 The 'main effects' .r and .md files show the code and output for running the analyses. The 'figures' .r file shows the code used to generate the figure below, showing the significant effects from the analyses.
 
-![](main-effects-plot.pdf)
+![](main-effects-plot.pdf?raw=true)
