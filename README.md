@@ -11,4 +11,6 @@ Main-effect analyses for the Couples' Communication study. These analyses examin
 
 -Partners' pin-insertion in a voodoo doll, as a behavioral measure of aggression (Dewall et al., 2013)
 
-The 'main effects' .r and .md files show the code and output for running the analyses. The 'figures' .r file shows the code used to generate the figure.
+The 'main effects' .r and .md files show the code and output for running the analyses. The 'figures' .r file shows the code used to generate the figure below, showing the significant effects from the analyses.
+
+![](main-effects-plot.pdf)
